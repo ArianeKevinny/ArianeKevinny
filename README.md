@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Hello, I'm Ariane Kevinny. 
 A computer science student, passionate about programming, mathematics and problem solving. I am currently acquiring knowledge in the areas of data sciences and computer theory.
-<img loading="lazy" src="/img/monkey-computer-not-working.gif" width="40" height="40"/>
+<img src="monkey-computer-not-working.gif" width="40" height="40"/>
 
 ### How to reach me:
 <div>
@@ -28,10 +28,13 @@ A computer science student, passionate about programming, mathematics and proble
 </div>
 
 ### I’m currently learning
-<img loading="lazy" src="/img/scikit-learn" width="40" height="40"/><img loading="lazy" src="/img/OpenGL" width="40" height="40"/>
+
+- <a href="https://github.com/ArianeKevinny/ComputingGraphics_OpenGl" target="_blank">Computing Graphics using OpenGl API</a>
+- <a href="https://github.com/ArianeKevinny/Machine-learning" target="_blank">Machine Learning with Python</a>
 
 ### My skills
-<img loading="lazy" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>   <img loading="lazy" src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor" width="40" height="40"/>   <img loading="lazy" src="https://icongr.am/devicon/cplusplus-original.svg?size=128&color=currentColor" width="40" height="40"/>   <img loading="lazy" src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor" width="40" height="40"/>   <img loading="lazy" src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" width="40" height="40"/>   <img loading="lazy" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor" width="40" height="40"/>   <img loading="lazy" src="https://icongr.am/devicon/npm-original-wordmark.svg?size=128&color=currentColor" width="40" height="40"/>   <img loading="lazy" src="https://icongr.am/devicon/mysql-plain-wordmark.svg?size=128&color=currentColor" width="40" height="40"/>   <img loading="lazy" src="https://icongr.am/devicon/nodejs-original-wordmark.svg?size=128&color=currentColor" width="40" height="40"/>   <img loading="lazy" src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor" width="40" height="40"/>   <img loading="lazy" src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" width="40" height="40"/>
+
+<img loading="lazy" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="60" height="60"/>   <img loading="lazy" src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor" width="60" height="60"/>   <img loading="lazy" src="https://icongr.am/devicon/cplusplus-original.svg?size=128&color=currentColor" width="60" height="60"/>   <img loading="lazy" src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor" width="60" height="60"/>   <img loading="lazy" src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" width="60" height="60"/>   <img loading="lazy" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor" width="60" height="60"/>   <img loading="lazy" src="https://icongr.am/devicon/npm-original-wordmark.svg?size=128&color=currentColor" width="60" height="60"/>   <img loading="lazy" src="https://icongr.am/devicon/mysql-plain-wordmark.svg?size=128&color=currentColor" width="60" height="60"/>   <img loading="lazy" src="https://icongr.am/devicon/nodejs-original-wordmark.svg?size=128&color=currentColor" width="60" height="60"/>   <img loading="lazy" src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor" width="60" height="60"/>   <img loading="lazy" src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" width="60" height="60"/>
 
 <div>
 <a href="https://github.com/ArianeKevinny">
