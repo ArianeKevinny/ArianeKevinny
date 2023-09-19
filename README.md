@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 ## Hello, I'm Ariane Kevinny. 
 A computer science student, passionate about programming, mathematics and problem solving. I am currently acquiring knowledge in the areas of data sciences and computer theory.
-<img src="monkey-computer-not-working.gif" width="40" height="40"/>
+
+<img src="monkey-computer-not-working.gif" width="80" height="80"/>
 
 ### How to reach me:
 <div>
@@ -40,6 +41,4 @@ A computer science student, passionate about programming, mathematics and proble
 <a href="https://github.com/ArianeKevinny">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArianeKevinny&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
-![Snake animation](https://github.com/ArianeKevinny/ArianeKevinny/blob/output/github-contribution-grid-snake.svg)
 
