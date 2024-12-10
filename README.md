@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## Hello, I'm Ariane Kevinny. 
-A computer science student, passionate about programming, mathematics and problem solving. I am currently acquiring knowledge in the areas of data sciences and computer theory.
+I have a bachelor's degree in computer science, passionate about programming, mathematics and problem solving. I am currently acquiring knowledge in the areas of data sciences and computer theory.
 
 <img src="monkey-computer-not-working.gif" width="200" height="160"/>
 
